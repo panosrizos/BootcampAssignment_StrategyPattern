@@ -1,0 +1,14 @@
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\bin\Debug\StrategyAssignment.exe.config
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\bin\Debug\StrategyAssignment.exe
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\bin\Debug\StrategyAssignment.pdb
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.exe
+C:\Users\Παναγιώτης\Desktop\design_Patterns\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.pdb
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\bin\Debug\StrategyAssignment.exe.config
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\bin\Debug\StrategyAssignment.exe
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\bin\Debug\StrategyAssignment.pdb
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.exe
+C:\Users\Παναγιώτης\Desktop\StrategyScenario-master\StrategyAssignment\obj\Debug\StrategyAssignment.pdb
